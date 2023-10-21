@@ -1,4 +1,4 @@
-<h1>_Ermek Abdrazakov_</h1> 
+<h1>Ermek Abdrazakov</h1> 
 
 #### _A simple box model in css._
 
