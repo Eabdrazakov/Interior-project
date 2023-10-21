@@ -3,11 +3,11 @@
 #### _A simple box model in css._
 
 ## Technologies Used
-
-* _HTML_
-* _CSS_
-* _Box model_
-
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>Box model</li>
+</ul>
 ## Description
 
 _This interior box model allows to users to create a simple box model in html and css._
