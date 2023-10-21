@@ -1,0 +1,65 @@
+body {
+    background-image: url('./image/photo.png');
+    /* Replace 'your-image.jpg' with the path to your image */
+    background-size: small;
+    /* Resize the image to cover the entire viewport */
+    background-position: center;
+    /* Center the image horizontally */
+    background-attachment: fixed;
+    /* Fix the background image so it doesn't scroll */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.box1 {
+    width: 25%;
+    border: 2px;
+    border-width: 10px;
+    background-color: antiquewhite;
+    padding: 10px;
+    margin-left: 14px;
+    box-sizing: border-box;
+    height: 35%;
+}
+
+.box2 {
+    width: 25%;
+    border: black;
+    border-width: 3px;
+    background-color: antiquewhite;
+    padding: 6px;
+    margin-left: 14px;
+    box-sizing: border-box;
+    height: 35%;
+}
+
+.box3 {
+    width: 25%;
+    border: black;
+    border-width: 3px;
+    background-color: antiquewhite;
+    padding: 6px;
+    margin-left: 14px;
+    box-sizing: border-box;
+    height: 35%;
+}
+
+.text {
+    border: 1px solid black;
+    padding: 10px;
+    width: 20%;
+    text-align: center;
+
+}
+
+.pad {
+    margin-bottom: 30px;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
